@@ -27,3 +27,8 @@
     Sebelumnya kita masi menentukan setiap level section secara manual, karena context memungkinkan kita membaca informasi dari komponen diatasnya,   
     padahal Section dapat membaca level dari Section diatasnya dengan mengoper level + 1 ke bawah secara otomatis.
     ![alt text](image-3.png)
+
+4. Capture hasilnya dan buatlah laporan di README.md. Tambahkan teks Nama dan NIM pada bagian komponen Post agar menunjukkan itu hasil kerja Anda!
+
+    Jawab :
+    ![alt text](image-4.png)
